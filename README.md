@@ -262,5 +262,5 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 
 ```
 ## Authors
-- [Godwin Aigbuza](https://@github.com/)
+- [Godwin Aigbuza](https://@github.com/godwinerons)
 - [Onome Mafuru](https://@github.com/Omafuru)
